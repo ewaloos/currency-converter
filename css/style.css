@@ -18,3 +18,7 @@ html {
   background-size: cover;
   background-attachment: fixed;
 }
+
+.footer {
+  font-size: 95%;
+}
