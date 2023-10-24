@@ -7,10 +7,12 @@
 }
 
 .form__fieldset {
-  border: 1px solid hwb(120 0% 50%);
+  max-width: 600px;
+  border: 1px solid rgb(0, 128, 0);
   border-radius: 15px;
   padding: 15px;
-  margin: 20px 0;
+  margin: 10px auto;
+  background-color: rgba(255, 255, 255, 0.665);
 }
 
 .form_labelText {
