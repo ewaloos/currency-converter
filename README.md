@@ -1,3 +1,5 @@
+Link: https://ewaloos.github.io/currency-converter/
+
 # **Currency converter**
 
 A simple calculator allowing to calculate USD, EUR and GBP into Polish Zloty.
